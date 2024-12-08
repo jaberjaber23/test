@@ -1,12 +1,12 @@
 # Neural Architecture Visualizer
 
-![GitHub stars](https://img.shields.io/github/stars/jaberjaber23/neural-architecture-visualizer?style=social)
-![GitHub forks](https://img.shields.io/github/forks/jaberjaber23/neural-architecture-visualizer?style=social)
+![GitHub stars](https://img.shields.io/github/stars/jaberjaber23/neural-architecture-visualizer)
+![GitHub forks](https://img.shields.io/github/forks/jaberjaber23/neural-architecture-visualizer)
 ![GitHub last commit](https://img.shields.io/github/last-commit/jaberjaber23/neural-architecture-visualizer)
-[![Website](https://img.shields.io/website?url=https%3A%2F%2Fjaber.blog%2Fneural-visualizer)](https://jaber.blog/)
+[![Website](https://img.shields.io/website?url=https%3A%2F%2Fjaber.blog)](https://jaber.blog/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-> Elucidating the intricacies of neural network architectures through interactive, data-driven visualizations.
+> Visualizing neural network architectures interactively.
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/d5b043a9-6934-487a-8fae-255423b612b6" alt="Neural Architecture Visualization Platform Banner" width="800">
@@ -114,11 +114,11 @@ If you use this platform in your research, please cite it as follows:
 ```bibtex
 @misc{jaber2024neuralviz,
   author = {Jaber, Jaber},
-  title = {Neural Architecture Visualization Platform},
+  title = {Neural Architecture Visualizer},
   year = {2024},
   publisher = {GitHub},
   journal = {GitHub repository},
-  howpublished = {\url{https://github.com/jaberjaber/neural-architecture-visualizer}}
+  howpublished = {\url{https://github.com/jaberjaber23/neural-architecture-visualizer}}
 }
 ```
 
@@ -128,9 +128,9 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) f
 
 ## Contact
 
-Jaber Jaber - [jaber@jaber.blog](mailto:jaber@jaber.blog)
+Jaber Jaber - [jaber@nujoom.ai](mailto:jaber@nujoom.ai)
 
-Project Link: [https://github.com/jaberjaber/neural-architecture-visualizer](https://github.com/jaberjaber/neural-architecture-visualizer)
+Project Link: [https://github.com/jaberjaber/neural-architecture-visualizer](https://github.com/jaberjaber23/neural-architecture-visualizer)
 
 ---
 
