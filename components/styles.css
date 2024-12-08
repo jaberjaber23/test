@@ -1,0 +1,53 @@
+body {
+  font-family: 'Times New Roman', Times, serif; /* Use Times New Roman font */
+  line-height: 1.6; /* Improve readability */
+  margin: 0; /* Remove default margin */
+}
+
+h1, h2, h3, h4 {
+  margin: 0; /* Remove default margin */
+}
+
+ul {
+  list-style-type: none; /* Remove default list styles */
+}
+
+.border-l-2 {
+  border-left-width: 2px; /* Thicker left border for list items */
+}
+
+.border-gray-300 {
+  border-color: #d1d5db; /* Light gray border color */
+}
+
+.bg-blue-100 {
+  background-color: #ebf8ff; /* Light blue background for selected items */
+}
+
+.text-blue-700 {
+  color: #2b6cb0; /* Dark blue text color */
+}
+
+.text-gray-700 {
+  color: #4a5568; /* Dark gray text color */
+}
+
+.text-gray-600 {
+  color: #718096; /* Medium gray text color */
+}
+
+.shadow-md {
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Subtle shadow for cards */
+}
+
+.mt-8 {
+  margin-top: 2rem; /* Spacing for top margin */
+}
+
+.p-6 {
+  padding: 1.5rem; /* Padding for detail sections */
+}
+
+.p-8 {
+  padding: 2rem; /* Padding for main container */
+}
